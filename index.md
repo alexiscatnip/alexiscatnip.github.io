@@ -2,31 +2,36 @@
 
 ---
 
-### Category Name 1 
+### Internships
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Avetics](https://avetics.com)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+I developed software for drones.
+One of them is an android app, but you need a DJI drone to use it: [link](https://play.google.com/store/apps/details?id=com.avetics.vscan)
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/v-scan.png?raw=true"/>
 
 ---
+[Micron Singapore - Autonomous Vechicle Project](https://in.micron.com/about/blog/2019/august/accelerating-intelligence-harnessing-singapore-strength)
 
-### Category Name 2
+I helped the team integrate and develop new features, such as a new braking system.
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<img src="https://media-www.micron.com/-/media/client/global/images/blogs/featured-blog-post-images/2019/singapore.jpg?h=4000&la=en-IN&w=6000&rev=f19b8476807c416a9a2ad7b2f12d0980&hash=DEC4C39871489F7B14251AE8A16A675B"/>
 
 ---
 
+
+### Projects - Software Eng
+
+- [FreeTime - A timetable 'synchroniser' app written in Java](https://github.com/CS2113-AY1819S1-W13-1/main) 
+
+---
+
+### Projects - Embedded
+
+- [Vincent - Arduino & Raspberry Pi Robot](http://example.com/)
+
+---
 
 
 
