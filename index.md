@@ -43,8 +43,13 @@ I helped the team develop new features, such as a new braking system and health 
 
 ### Projects - Embedded
 
-- [CG3207 - an implementation of subset of ARM CPU on a FPGA](http://example.com/)
-- [Vincent - Arduino & Raspberry Pi Robot](http://example.com/)
+- CG3207 - an implementation of subset of ARM-like CPU on FPGA
+    1. implemented ARM-like CPU on FPGA board. 
+    2. Wrote 'blinky/abacus' program in ARM-like assembly language and compiled it to machine code defined by the CPU's ISA (Yea I can't read this either) 
+    3. Loaded this machine code into FPGA to run and see output on physical LEDs.
+    - Guys, we made a CPU! We are true tech-wizes now
+    - Apparently based on the book [Digital Design and Computer Architecture: ARM Edition](https://dl.acm.org/doi/10.5555/2815529)
+- Vincent - Arduino & Raspberry Pi Robot
 
 ---
 
