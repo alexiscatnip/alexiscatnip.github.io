@@ -12,7 +12,7 @@ I developed software for drones. Including:
 * _RPI Sensor Array_, A sensor array driven by Raspberry PI that sends sensor data through the drone's telemetry to the pilot.
 * Experiment with using ARTag to localise drone.
 
-<img src="images/v-scan2.png?raw=true"/>
+<img src="images/vscan2.png?raw=true"/>
 
 ---
 [Micron Singapore - Autonomous Vechicle Project](https://in.micron.com/about/blog/2019/august/accelerating-intelligence-harnessing-singapore-strength)
