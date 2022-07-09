@@ -50,7 +50,6 @@ I helped the team develop new features, such as a new braking system and health 
          -  There is no JVM!
       -  **We become one in the javascript singularity.**
       -  Just because you can, does not mean you should!!!
-      -  LOLLLL
 - [FreeTime - A timetable app written in Java](https://github.com/CS2113-AY1819S1-W13-1/main) 
     - I modified the UI to display our use case,
     - I created a import/export data feature.
