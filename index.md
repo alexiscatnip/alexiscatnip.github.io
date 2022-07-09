@@ -2,20 +2,25 @@
 
 ---
 
-### Internships
+### Personal project - [Raindrop Viewer](https://github.com/RaindropViewer/RaindropViewer)
 
-[Avetics](https://avetics.com)
+I'm making a client application for Android phones to connect to the ancient Secondlife and OpenSimulator virtual worlds. Uses unity engine.
 
-I developed software for drones. Including:
+<img src="https://raw.githubusercontent.com/RaindropViewer/RaindropViewer/main/docs/image/game.jpg">
 
-* [V-scan](https://play.google.com/store/apps/details?id=com.avetics.vscan), an android app for DJI drones that integrates some Machine learning.
-* _RPI Sensor Array_, A sensor array driven by Raspberry PI that sends sensor data through the drone's telemetry to the pilot.
+
+### Internship - [Avetics](https://avetics.com)
+
+I developed drone software: 
+
+* [V-scan](https://play.google.com/store/apps/details?id=com.avetics.vscan), an android app for DJI drones that uses machine learning to count the number of people.
+* _RPI Sensor Array_, A Raspberry PI mounted on the drone, that sends the sensor data to the pilot.
 * Experiment with using ARTag to localise drone.
 
 <img src="images/vscan2.png?raw=true"/>
 
 ---
-[Micron Singapore - Autonomous Vechicle Project](https://in.micron.com/about/blog/2019/august/accelerating-intelligence-harnessing-singapore-strength)
+### Internship - [Micron Singapore - Autonomous Vechicle Project](https://in.micron.com/about/blog/2019/august/accelerating-intelligence-harnessing-singapore-strength)
 
 I helped the team develop new features, such as a new braking system and health system. 
 
@@ -23,25 +28,41 @@ I helped the team develop new features, such as a new braking system and health 
 
 ---
 
-
-### Projects - Software Eng
-
+### Projects - Games, VR
 - [Ecoverse ](https://github.com/jessicax941/cs4240-project) 
     - A VR simulation that teaches you about your actions and its environment impacts
 - [AR VideoPlayer ](https://github.com/alexiscatnip/cs4240_lab3/tree/master) 
     - AR app for Android/IOS. It overlays a video player on images in the real world.
-- [Dance Dance ](https://www.dropbox.com/s/cau6m9howrnei6j/GRP_14_CG4002_Final_Design_Report.pdf?dl=0) 
-    - A Wristband device that detects gestures.
-    - I was in charge of sensors and wearable parts.
+
+### Projects - Software Eng
+- [Dance Dance ](https://drive.google.com/file/d/17ecJp5Q0vSZ1ftSUzEVI7GfrJb4E2CSB/view?usp=sharing) 
+    - A Wristband device that detects gestures using IMU.
+    - I was in charge of hardware and wearable parts.
+- [JavaAcademy - **Interpreted** Java 8 Programming Language](https://github.com/nus-cs4215/x-slang-t4-kyh-ac)
+    - This one is really hard to explain...
+    - We implemented an absurd-Java, 
+      - On surface level, it obeys the grammar and syntax of Java8...
+        - IE, `public static void main`, everything-is-an-object, semicolons, etc...
+      -  ... but, under the hood, it actually runs in an interpreted manner, on top of the javascript runtime!!!
+         -  Yes! Our js-based interpreter goes line by line (AST), storing each `Object name = new Object();` into an `env` datastructure in javascript.
+         -  funny runtime errors unexpected of Java8 **will** occur
+      -  Indeed, there is no compilation step, nor is there any java byte-code.
+         -  There is no JVM!
+      -  **We become one in the javascript singularity.**
+      -  Just because you can, does not mean you should!!!
+      -  LOLLLL
+- [FreeTime - A timetable app written in Java](https://github.com/CS2113-AY1819S1-W13-1/main) 
+    - I modified the UI to display our use case,
+    - I created a import/export data feature.
+
+### Projects - UI UX
 - [JustTakePic ](https://www.figma.com/file/rVzfVDuTEIjKcxycXg4sDG/Final-prototype) 
     - A UI/UX mockup of a hypothetical food diary.
-    - The main feature is that it uses your phone's camera to automatically detect and add the food you are eating.
-- [FreeTime - A timetable 'synchroniser' app written in Java](https://github.com/CS2113-AY1819S1-W13-1/main) 
-    - I did some UI and then created a import/export data feature.
+    - It is a hypothetical app that uses your phone's camera to automatically scan and detect the  food you are eating into your food diary.
 
 ---
 
-### Projects - Embedded
+### Projects - Embedded Systems
 
 - CG3207 - an implementation of subset of ARM-like CPU on FPGA
     1. implemented ARM-like CPU on FPGA board. 
