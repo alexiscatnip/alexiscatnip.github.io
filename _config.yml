@@ -10,6 +10,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   <a href="https://sg.linkedin.com/in/alexis-khoo-6198a2199">View My LinkedIn Profile</a> 
   
+theme: jekyll-theme-minimal
 remote_theme: zivhub/monophase@main
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 plugins:
