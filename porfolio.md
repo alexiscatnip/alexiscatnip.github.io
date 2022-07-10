@@ -61,7 +61,7 @@ The stack was ROS and C++.
 ### Projects - Software Eng
 #### [Dance Dance ](https://drive.google.com/file/d/17ecJp5Q0vSZ1ftSUzEVI7GfrJb4E2CSB/view?usp=sharing) 
 
-<img src="../images/dancedance.png?raw=true"/>
+<img src="../images/dancedance.PNG?raw=true"/>
 
 A Wristband device that detects gestures using IMU.
 I was in charge of hardware and wearable parts.
@@ -101,9 +101,6 @@ I was in charge of hardware and wearable parts.
 - [Deepracer - AWS Asean BuildOn](https://buildonasean.com/awsdeepracer/linkId=91225082/)
     - Champion.
     - Performed research on the strategies to train the simulated deepracer vehicle to race a track using Reinforcement Learning. 
-- [Foodconnect - Hack4Good 2020](https://github.com/alexiscatnip/hackathon-starter)
-    - Participation.
-    - Made a website in 48 hours that includes the googlemaps API. Deployed it on Heroku. 
 
 ---
 
