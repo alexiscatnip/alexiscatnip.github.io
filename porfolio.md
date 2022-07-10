@@ -58,11 +58,6 @@ I helped the team develop new features, such as a new braking system and health 
     - I modified the UI to display our use case,
     - I created a import/export data feature.
 
-### Projects - UI UX
-- [JustTakePic ](https://www.figma.com/file/rVzfVDuTEIjKcxycXg4sDG/Final-prototype) 
-    - A UI/UX mockup of a hypothetical food diary.
-    - It is a hypothetical app that uses your phone's camera to automatically scan and detect the  food you are eating into your food diary.
-
 ---
 
 ### Projects - Embedded Systems
