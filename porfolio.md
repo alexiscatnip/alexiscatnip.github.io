@@ -8,27 +8,47 @@ permalink: /portfolio/
 
 ### Personal project - [Raindrop Viewer](https://github.com/RaindropViewer/RaindropViewer)
 
-I'm making a client application for Android phones to connect to the ancient Secondlife and OpenSimulator virtual worlds. Uses unity engine.
-
 <img src="https://raw.githubusercontent.com/RaindropViewer/RaindropViewer/main/docs/image/game.jpg">
 
+I'm making a (client) application for Android phones to connect to the ancient Secondlife and OpenSimulator virtual worlds. 
+
+For years now, the Secondlife user base has been moaning and pestering linden lab about the lack of a client to connect to Secondlife on smartphones. Existing mobile clients are limited to text and chatting only. Not much 3D. 
+
+I wanted a more fully fleshed out client, so I started this idea in 2020 and have been tinkering with it since.
+
+As I consume a C# library [LibreMetaverse](https://github.com/cinderblocks/libremetaverse), I started the project with Xamarin Android. But eventually changed to Unity engine because it was less fussy and easier to get stuff up and running. 
+
+Recently, there are news on the Lindens side that they are developing an official mobile viewer. If that were true, this would be obsolete. 
+
+But I build it anyway :) Fun
+
+---
 
 ### Internship - [Avetics](https://avetics.com)
 
-I developed drone software: 
+I developed drone software.
 
-* [V-scan](https://play.google.com/store/apps/details?id=com.avetics.vscan), an android app for DJI drones that uses machine learning to count the number of people.
-* _RPI Sensor Array_, A Raspberry PI mounted on the drone, that sends the sensor data to the pilot.
-* Experiment with using ARTag to localise drone.
+#### V-scan
 
 <img src="../images/vscan2.png?raw=true"/>
+
+An android app for DJI drones that uses machine learning to count the number of people.
+Play store: [V-scan](https://play.google.com/store/apps/details?id=com.avetics.vscan) 
+
+
+#### RPI Sensor Array 
+A Raspberry PI mounted on the drone, that sends the sensor data to the pilot.
+
 
 ---
 ### Internship - [Micron Singapore - Autonomous Vechicle Project](https://in.micron.com/about/blog/2019/august/accelerating-intelligence-harnessing-singapore-strength)
 
-I helped the team develop new features, such as a new braking system and health system. 
 
 <img src="https://media-www.micron.com/-/media/client/global/images/blogs/featured-blog-post-images/2019/singapore.jpg?h=4000&la=en-IN&w=6000&rev=f19b8476807c416a9a2ad7b2f12d0980&hash=DEC4C39871489F7B14251AE8A16A675B"/>
+
+I helped the team develop new features, such as a new braking system and health system. 
+
+The stack was ROS and C++.
 
 ---
 
@@ -39,9 +59,13 @@ I helped the team develop new features, such as a new braking system and health 
     - AR app for Android/IOS. It overlays a video player on images in the real world.
 
 ### Projects - Software Eng
-- [Dance Dance ](https://drive.google.com/file/d/17ecJp5Q0vSZ1ftSUzEVI7GfrJb4E2CSB/view?usp=sharing) 
-    - A Wristband device that detects gestures using IMU.
-    - I was in charge of hardware and wearable parts.
+#### [Dance Dance ](https://drive.google.com/file/d/17ecJp5Q0vSZ1ftSUzEVI7GfrJb4E2CSB/view?usp=sharing) 
+
+<img src="../images/dancedance.png?raw=true"/>
+
+A Wristband device that detects gestures using IMU.
+I was in charge of hardware and wearable parts.
+
 - [JavaAcademy - **Interpreted** Java 8 Programming Language](https://github.com/nus-cs4215/x-slang-t4-kyh-ac)
     - This one is really hard to explain...
     - We implemented an absurd-Java, 
