@@ -84,7 +84,8 @@ We created a wristband device to classify dance moves.
 
 I was in charge of choosing, soldering, and programming the hardware and wearable parts. I was also looking at alot of excel time-series data to understand the characteristics and the best place to wear the sensor. 
 
-## [JavaAcademy - **Interpreted** Java 8 Programming Language](https://github.com/nus-cs4215/x-slang-t4-kyh-ac)
+
+<!-- ## [JavaAcademy - **Interpreted** Java 8 Programming Language](https://github.com/nus-cs4215/x-slang-t4-kyh-ac)
 
 todo: create gif of this guy in action.
 
@@ -97,7 +98,7 @@ On surface level, it obeys the grammar and syntax of Java8...
       -  Indeed, there is no compilation step, nor is there any java byte-code.
          -  There is no JVM!
       -  **We become one in the javascript singularity.**
-      -  Just because you can, does not mean you should!!!
+      -  Just because you can, does not mean you should!!! -->
 
 ## [FreeTime - A timetable app written in Java](https://github.com/CS2113-AY1819S1-W13-1/main) 
 
