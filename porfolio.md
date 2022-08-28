@@ -32,15 +32,11 @@ I developed drone software.
 
 An android app for DJI drones that uses machine learning to count the number of people.
 
-The accuracy was initially very low.
+The ability to detect people was initially quite poor, as the default object detection model was trained on generic images (as opposed to aerial images from a drone's view).
 
-For the release version, we used GCP to train the object detection model on aerial images of people.
-
-The accuracy was thus increased to about 0.7 or 0.8. I can't remember.
+To solve that, we retrained the model on a [specific dataset](http://okutama-action.org/) of aerial images of people.
 
 ### RPI Sensor Array 
-
-todo: find image of this guy.
 
 A Raspberry PI mounted on the drone, that sends the sensor data to the pilot.
 
@@ -52,8 +48,6 @@ When I was done with the first python program, I tried to refactor the 300 lines
 
 
 <img src="https://media-www.micron.com/-/media/client/global/images/blogs/featured-blog-post-images/2019/singapore.jpg?h=4000&la=en-IN&w=6000&rev=f19b8476807c416a9a2ad7b2f12d0980&hash=DEC4C39871489F7B14251AE8A16A675B"/>
-
-todo: find gif of this guy.
 
 I helped the team develop new features, such as a new braking system and health system. 
 
@@ -69,7 +63,7 @@ The stack was ROS and C++.
 
 A VR simulation that teaches you about your actions and its environment impacts
 
-It was really hard to collaborate since it was a unity project, and there was only 1 headset to go around. (!)
+It was really hard to collaborate since it was a unity project, and there was only 1 headset to go around. 
 
 I am pretty satisifed with the end result, but I think we could have added more interactions that are not "laser-pointer".
 
@@ -78,22 +72,15 @@ I am pretty satisifed with the end result, but I think we could have added more 
 
 <img src = "../images/ar_video_player_cropped.gif" width="500">
 
-Just to get feet wet in AR library...
-
 ## Projects - Software Eng
 ### [Dance Dance ](https://drive.google.com/file/d/17ecJp5Q0vSZ1ftSUzEVI7GfrJb4E2CSB/view?usp=sharing) 
 
 <img src="../images/dancedance.PNG?raw=true"/>
+<img src="../images/dancedance2.PNG?raw=true"/>
 
 todo: find video of us dancing.
 
 We created a wristband device to classify dance moves.
-
-We were not allowed to use base stations or external sensors and cameras.
-
-Thus, the only way method left is making the dancer wear a wearable device.
-
-Due to the limited and mutually-unique dance moves, we were able to get by with the data from just 1 IMU sensor.  
 
 I was in charge of choosing, soldering, and programming the hardware and wearable parts. I was also looking at alot of excel time-series data to understand the characteristics and the best place to wear the sensor. 
 
@@ -124,8 +111,6 @@ todo: create gif of using this thing.
 ## Projects - Embedded Systems
 
 ## CG3207 - an implementation of subset of ARM-like CPU on FPGA
-
-todo: do i have video of this guy?
 
 We implemented an ARM-like CPU on FPGA board. Following the Fetch-decode-execute-memory concept. 
 
