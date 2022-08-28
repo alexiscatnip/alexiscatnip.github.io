@@ -76,7 +76,7 @@ I am pretty satisifed with the end result, but I think we could have added more 
 ### [Dance Dance ](https://drive.google.com/file/d/17ecJp5Q0vSZ1ftSUzEVI7GfrJb4E2CSB/view?usp=sharing) 
 
 <img src="../images/dancedance.PNG?raw=true"/>
-<img src="../images/dancedance2.PNG?raw=true"/>
+<img src="../images/dancedance2.png?raw=true"/>
 
 todo: find video of us dancing.
 
