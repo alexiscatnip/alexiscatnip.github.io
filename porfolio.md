@@ -26,7 +26,7 @@ Recently, there are news on the Lindens side that they are developing an officia
 
 I developed drone software.
 
-### V-scan
+### V-scan [download](https://play.google.com/store/apps/details?id=com.avetics.vscan)
 
 <img src="../images/vscan2.png?raw=true"/>
 
@@ -37,8 +37,6 @@ The accuracy was initially very low.
 For the release version, we used GCP to train the object detection model on aerial images of people.
 
 The accuracy was thus increased to about 0.7 or 0.8. I can't remember.
-
-Play store: [V-scan](https://play.google.com/store/apps/details?id=com.avetics.vscan) 
 
 ### RPI Sensor Array 
 
