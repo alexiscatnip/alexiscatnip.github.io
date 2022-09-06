@@ -135,5 +135,18 @@ I still don't really understand how it works. :P Looks like trial and error once
 
 
 ---
+
+## Miscellany - If you somehow scrolled all the way to the end o.o
+
+### [Full Body Tracking using Multiple Cameras, Machine Learning, and Triangulation.](https://github.com/alexiscatnip/freemocap-uwupose)
+
+**Problem Statement**: Alexis cooked this up because she really wanted the moving feetsies, but did not want to buy something out of the box. The maker spirit amirite?
+
+**The result**: 10 Hz tracking at the expense of 50% CPU usage with a monstrous 450ms end-to-end latency! At least we can warn people not to attempt it again... 
+
+In addition, set-up of extrinsic matrices is affected by calibration inconsistency. You have to calibrate it the traditional way with a huge chessboard (charuco board).
+
+---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
