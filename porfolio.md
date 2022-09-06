@@ -26,7 +26,7 @@ Recently, there are news on the Lindens side that they are developing an officia
 
 I developed drone software.
 
-### V-scan [download](https://play.google.com/store/apps/details?id=com.avetics.vscan)
+### V-scan [(Google Play)](https://play.google.com/store/apps/details?id=com.avetics.vscan)
 
 <img src="../images/vscan2.png?raw=true"/>
 
