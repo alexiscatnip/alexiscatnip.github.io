@@ -67,7 +67,7 @@ It was really hard to collaborate since it was a unity project, and there was on
 
 I am pretty satisifed with the end result, but I think we could have added more interactions that are not "laser-pointer".
 
-## [AR VideoPlayer ](https://github.com/alexiscatnip/cs4240_lab3/tree/master) 
+### [AR VideoPlayer ](https://github.com/alexiscatnip/cs4240_lab3/tree/master) 
 ### AR app for Android/IOS. It overlays a video player on images in the real world.
 
 <img src = "../images/ar_video_player_cropped.gif" width="500">
@@ -100,7 +100,7 @@ On surface level, it obeys the grammar and syntax of Java8...
       -  **We become one in the javascript singularity.**
       -  Just because you can, does not mean you should!!! -->
 
-## [FreeTime - A timetable app written in Java](https://github.com/CS2113-AY1819S1-W13-1/main) 
+### [FreeTime - A timetable app written in Java](https://github.com/CS2113-AY1819S1-W13-1/main) 
 
 todo: create gif of using this thing.
 
@@ -111,7 +111,7 @@ todo: create gif of using this thing.
 
 ## Projects - Embedded Systems
 
-## CG3207 - an implementation of subset of ARM-like CPU on FPGA
+### CG3207 - an implementation of subset of ARM-like CPU on FPGA
 
 We implemented an ARM-like CPU on FPGA board. Following the Fetch-decode-execute-memory concept. 
 
@@ -126,8 +126,6 @@ Apparently based on the book [Digital Design and Computer Architecture: ARM Edit
 ## Hackathons
 
 ### [Deepracer - AWS Asean BuildOn](https://buildonasean.com/awsdeepracer/linkId=91225082/)
-
-todo: I have a video of training somewhere.
 
 Champion.
 
